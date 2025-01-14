@@ -1,0 +1,8 @@
+Below is the command to activate the environment that has ML packages
+
+D:\AAU Data\Seafile AAU\My Library\Research papers\Work with Patrick Rodler\Project\Project>.\pandas_venv\Scripts\activate
+
+Commands to install some packages:
+
+- pip install scikit-learn
+- pip install matplotlib

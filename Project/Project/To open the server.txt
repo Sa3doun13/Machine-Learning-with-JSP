@@ -1,0 +1,5 @@
+To access the server, open this file in a browser:
+        file:///C:/Users/Mohammed%20El-Kholany/AppData/Roaming/jupyter/runtime/jpserver-6592-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=68ac0fe83b5d07338befc51f9e9cb4f731a36aa8d34bd95e
+        http://127.0.0.1:8888/tree?token=68ac0fe83b5d07338befc51f9e9cb4f731a36aa8d34bd95e

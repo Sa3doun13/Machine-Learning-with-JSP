@@ -1,0 +1,21 @@
+Regression trees are the trees where the values in the leaves are numeric values
+
+Classification trees are the trees where values in the leaves are categorical or True and False values.
+
+To DO:
+  - Create a csv file with new categories of the classes, e.g, 4 classes (Done)
+  - Build a Random Forest ML where:
+	- Apply Regression Trees (Done)
+	- Apply Classification Trees (Done)
+	- Show the variables' importance for both (Regression and Classification) Trees
+
+  - Build a Boosting Trees where
+	- Apply Regression Trees (Done)
+	- Apply Classification Trees (Done)
+
+
+Classes
+0 -- 20
+20 -- 50
+50 -- 100
+> 100

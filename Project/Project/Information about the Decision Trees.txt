@@ -13,6 +13,13 @@ To DO:
 	- Apply Regression Trees (Done)
 	- Apply Classification Trees (Done)
 
+  - Build a Regression Tree (Done)
+  - Build a Classification Tree (Done)
+
+  - Apply the Classificiaion Decision Tree with Different criteria such as (Entropy, Gini and Log_loss)
+  - Apply the Decision Tree with multiple or binary branches
+
+  - Store the results in the excel file
 
 Classes
 0 -- 20

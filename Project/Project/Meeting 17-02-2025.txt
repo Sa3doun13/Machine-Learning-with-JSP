@@ -1,0 +1,20 @@
+- Add the number of operations in each TW combined with overlapping (Done)
+- Add the number of operations in each TW without overlapping (Done)
+- Add the additional  number of operations by overlapping (Done)
+
+- Apply 10 cross-validation for all of models (Done)
+- Study the meaning of cross-validation scores
+- Remove the interrupted calls feature (Done)
+
+- For the general dataset (Done)
+	- Redo the experiments (Done)
+	- interpret the importance of the features (Done)
+
+- Split the dataset based on the machines and jobs which are (3 classes)
+	- apply the different algorithms on each dataset
+	- interpret the importance of the features
+
+- Check what happens if the max depth parameter does not exist
+
+- According to the normal Classification and the regression tree (do it with the general and splitted dataset)
+	- How to do post pruning (it is the opposite of pre-pruning) [need to study it]

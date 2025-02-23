@@ -16,6 +16,18 @@
 - Check what happens if the max depth parameter does not exist
 
 - According to the normal Classification and the regression tree (do it with the general and splitted dataset)
-	- How to do post pruning (it is the opposite of pre-pruning) [need to study it]
+	- How to do post pruning (it is the opposite of pre-pruning) [need to study it] (Done)
+	- Let chatgpt modify the code to apply the post pruning 
+	  and compare the results with the results obtained by my own code (Done)
 
 - Ask Patrick about the negative cross-validation scores.
+- Ask Patrick about the warning message:
+	The warning:
+
+	"Precision is ill-defined and being set to 0.0 in labels with no predicted samples."
+
+	occurs when some classes in your dataset are never predicted by the classification model. This can happen when:
+
+		The model completely ignores some classes.
+		The dataset is highly imbalanced, leading to some labels being underrepresented.
+		The post-pruning process removes important branches, affecting predictions.
